@@ -1,7 +1,6 @@
 package uc
 
 import (
-	_ "fmt"
 	"strings"
 )
 
